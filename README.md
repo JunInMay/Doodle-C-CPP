@@ -1,4 +1,7 @@
 # Doodle-C-CPP
-Re-learning C/C++ with 두들낙서(doodle nakseo)
-|학습일|진도|
-|---|
+This repository is dedicated to saving example codes while learning C/C++ with a book titled "두들낙서의 C/C++ 한꺼번에 배우기".
+
+## Progress Tracker
+
+|Date|Progress|
+|---|---|
