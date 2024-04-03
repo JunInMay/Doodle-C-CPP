@@ -3,5 +3,6 @@ This repository is dedicated to saving example codes while learning C/C++ with a
 
 ## Progress Tracker
 
-|Date|Progress|
-|---|---|
+| Date       | Progress                                           |
+| ---------- | -------------------------------------------------- |
+| 2024-04-03 | 1장 출력하기(p.13 ~ p.28)<br>2장 2.2 sizeof(p.29 ~ p.41) |
