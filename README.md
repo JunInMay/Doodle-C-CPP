@@ -3,6 +3,7 @@ This repository is dedicated to saving example codes while learning C/C++ with a
 
 ## Progress Tracker
 
-| Date       | Progress                                           |
-| ---------- | -------------------------------------------------- |
-| 2024-04-03 | 1장 출력하기(p.13 ~ p.28)<br>2장 2.2 sizeof(p.29 ~ p.41) |
+| Date       | Progress                                             |
+| ---------- | ---------------------------------------------------- |
+| 2024-04-03 | 1장 출력하기(p.13 ~ p.28)<br>2장 ~ 2.2 sizeof(p.29 ~ p.41) |
+| 2024-04-04 | 2장 2.2 ~ 2.5 연산자 우선순위(p.41 ~ p55)                    |
